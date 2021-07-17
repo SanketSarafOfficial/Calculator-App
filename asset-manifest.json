@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Calculator-App/static/css/main.9a2c0681.chunk.css",
-    "main.js": "/Calculator-App/static/js/main.e815a5f5.chunk.js",
-    "main.js.map": "/Calculator-App/static/js/main.e815a5f5.chunk.js.map",
-    "runtime-main.js": "/Calculator-App/static/js/runtime-main.92481788.js",
-    "runtime-main.js.map": "/Calculator-App/static/js/runtime-main.92481788.js.map",
-    "static/js/2.b7218de4.chunk.js": "/Calculator-App/static/js/2.b7218de4.chunk.js",
-    "static/js/2.b7218de4.chunk.js.map": "/Calculator-App/static/js/2.b7218de4.chunk.js.map",
-    "index.html": "/Calculator-App/index.html",
-    "static/css/main.9a2c0681.chunk.css.map": "/Calculator-App/static/css/main.9a2c0681.chunk.css.map",
-    "static/js/2.b7218de4.chunk.js.LICENSE.txt": "/Calculator-App/static/js/2.b7218de4.chunk.js.LICENSE.txt"
+    "main.css": "/Simple-Calculator-Application/static/css/main.9a2c0681.chunk.css",
+    "main.js": "/Simple-Calculator-Application/static/js/main.e815a5f5.chunk.js",
+    "main.js.map": "/Simple-Calculator-Application/static/js/main.e815a5f5.chunk.js.map",
+    "runtime-main.js": "/Simple-Calculator-Application/static/js/runtime-main.418c6d4e.js",
+    "runtime-main.js.map": "/Simple-Calculator-Application/static/js/runtime-main.418c6d4e.js.map",
+    "static/js/2.b7218de4.chunk.js": "/Simple-Calculator-Application/static/js/2.b7218de4.chunk.js",
+    "static/js/2.b7218de4.chunk.js.map": "/Simple-Calculator-Application/static/js/2.b7218de4.chunk.js.map",
+    "index.html": "/Simple-Calculator-Application/index.html",
+    "static/css/main.9a2c0681.chunk.css.map": "/Simple-Calculator-Application/static/css/main.9a2c0681.chunk.css.map",
+    "static/js/2.b7218de4.chunk.js.LICENSE.txt": "/Simple-Calculator-Application/static/js/2.b7218de4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92481788.js",
+    "static/js/runtime-main.418c6d4e.js",
     "static/js/2.b7218de4.chunk.js",
     "static/css/main.9a2c0681.chunk.css",
     "static/js/main.e815a5f5.chunk.js"
